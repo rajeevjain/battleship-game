@@ -1,0 +1,1 @@
+Game Exit. Multiple ships found for same coordinatesPoint [rowNumber=1, columnNumber=1]
